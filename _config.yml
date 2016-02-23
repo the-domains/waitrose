@@ -1,0 +1,28 @@
+name: Waitrose
+favicon: null
+layout_spectrum: 0.09360251831822097
+typography_spectrum: 0.5267159657087177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.46783701749518514
+  lightness: 0.8861712720245123
+  saturation: 0.10449592350050807
+  rhythmicContrast: 0.6328376987949014
+purpose: []
